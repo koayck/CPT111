@@ -1,6 +1,6 @@
 ## Mermaid Practice File
 
-I can use mermaid on github now, this markdown is practice
+This is my design of flowchart for solving problem on finding the best dining table for family dining hall/room
 
 ```mermaid
 flowchart TD;
